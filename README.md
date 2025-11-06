@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Focused on writing clean code, learning continuously and building meaningful projects that combine creativity, logic and impact .
+
+
+
 -->
