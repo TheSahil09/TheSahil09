@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Sahil, and I'm in my last year of Btech in Computer Science , I like to learn and explore new technologies 
+
+
 
   
 <!--
